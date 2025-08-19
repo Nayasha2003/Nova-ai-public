@@ -12,9 +12,29 @@ Key features include role-based authentication 👥, cloud media storage 🗂️
 ## 🖼️ Screenshots  
 
 🚀 **Landing Page**  
+
+![Landing Page](https://raw.githubusercontent.com/Nayasha2003/Nova-ai-public/ee2ec9ba17eaa4c4962a5d41dfdf725574c12873/NovaAI-Full-Stack/client/src/assets/1.png)
+
+
 ⚡ **Dashboard with AI Tools**  
-🔐 **Role-Based Authentication**  
-📂 **Cloud Media Uploads**  
+
+![Dashboard](https://raw.githubusercontent.com/Nayasha2003/Nova-ai-public/ee2ec9ba17eaa4c4962a5d41dfdf725574c12873/NovaAI-Full-Stack/client/src/assets/2.png)
+
+
+🔐 **Reviews**  
+
+![Reviews](https://raw.githubusercontent.com/Nayasha2003/Nova-ai-public/ee2ec9ba17eaa4c4962a5d41dfdf725574c12873/NovaAI-Full-Stack/client/src/assets/3.png)
+
+📂 **Subscription**  
+
+![Media Upload](https://raw.githubusercontent.com/Nayasha2003/Nova-ai-public/ee2ec9ba17eaa4c4962a5d41dfdf725574c12873/NovaAI-Full-Stack/client/src/assets/4.png)
+
+📂 **Login Page**  
+
+![Login Page](https://raw.githubusercontent.com/Nayasha2003/Nova-ai-public/ee2ec9ba17eaa4c4962a5d41dfdf725574c12873/NovaAI-Full-Stack/client/src/assets/5.png)
+
+
+
 
 ---
 
